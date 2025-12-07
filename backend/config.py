@@ -10,9 +10,8 @@
 # ⚠️ 重要：請替換為您的真實 Binance Testnet API Key
 # 獲取方式：https://testnet.binancefutures.com/cn/futures/setting/myKey
 
-BINANCE_API_KEY = 'MCNCAOCcvgmuyCv3jl8NkijsU924gCWbjDWwxKiQud1dIFJmOYo2lg0sb0T9heNM'
-
-BINANCE_API_SECRET = "QSPwANIg0dWIR9zvFaIotwz51qBNMhlCdJYP6TVyBpUZb4mu27rCNIva4NFJwPlN"
+BINANCE_API_KEY = os.getenv("BINANCE_API_KEY", "")
+BINANCE_API_SECRET = os.getenv("BINANCE_API_SECRET", "")
 
 # ======================== 服務器配置 ========================
 
