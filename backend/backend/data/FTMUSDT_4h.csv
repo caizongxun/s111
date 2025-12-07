@@ -1,0 +1,1 @@
+open_time,open,high,low,close,volume,close_time,quote_asset_volume,number_of_trades,taker_buy_base_asset_volume,taker_buy_quote_asset_volume,ignore,rsi_14,macd,macd_signal,macd_hist,bb_upper,bb_middle,bb_lower,atr_14,volume_ma_20,roc_12,close_ma_5,close_std_5

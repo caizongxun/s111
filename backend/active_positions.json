@@ -1,0 +1,146 @@
+{
+  "1038467521": {
+    "order_id": 1038467521,
+    "coin": "BNBUSDT",
+    "entry_price": 889.43,
+    "entry_time": "2025-12-06T22:30:27.854255",
+    "quantity": 0.84,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038467522": {
+    "order_id": 1038467522,
+    "coin": "BNBUSDT",
+    "entry_price": 889.43,
+    "entry_time": "2025-12-06T22:30:27.854255",
+    "quantity": 0.84,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038467843": {
+    "order_id": 1038467843,
+    "coin": "BNBUSDT",
+    "entry_price": 889.43,
+    "entry_time": "2025-12-06T22:32:11.314141",
+    "quantity": 0.83,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038467860": {
+    "order_id": 1038467860,
+    "coin": "BNBUSDT",
+    "entry_price": 889.43,
+    "entry_time": "2025-12-06T22:32:11.314141",
+    "quantity": 0.83,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038468368": {
+    "order_id": 1038468368,
+    "coin": "BNBUSDT",
+    "entry_price": 892.59,
+    "entry_time": "2025-12-06T22:33:55.975190",
+    "quantity": 0.82,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038468377": {
+    "order_id": 1038468377,
+    "coin": "BNBUSDT",
+    "entry_price": 892.59,
+    "entry_time": "2025-12-06T22:33:55.975190",
+    "quantity": 0.82,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "10633722442": {
+    "order_id": 10633722442,
+    "coin": "BTCUSDT",
+    "entry_price": 90001.2,
+    "entry_time": "2025-12-06T22:35:42.598335",
+    "quantity": 0.008,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "10633722467": {
+    "order_id": 10633722467,
+    "coin": "BTCUSDT",
+    "entry_price": 90001.2,
+    "entry_time": "2025-12-06T22:35:42.598335",
+    "quantity": 0.008,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038468762": {
+    "order_id": 1038468762,
+    "coin": "BNBUSDT",
+    "entry_price": 892.87,
+    "entry_time": "2025-12-06T22:35:42.598335",
+    "quantity": 0.8,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038468774": {
+    "order_id": 1038468774,
+    "coin": "BNBUSDT",
+    "entry_price": 892.87,
+    "entry_time": "2025-12-06T22:35:42.598335",
+    "quantity": 0.8,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038469070": {
+    "order_id": 1038469070,
+    "coin": "BNBUSDT",
+    "entry_price": 893.0,
+    "entry_time": "2025-12-06T22:37:29.395849",
+    "quantity": 0.78,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038469078": {
+    "order_id": 1038469078,
+    "coin": "BNBUSDT",
+    "entry_price": 893.0,
+    "entry_time": "2025-12-06T22:37:29.395849",
+    "quantity": 0.78,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038469380": {
+    "order_id": 1038469380,
+    "coin": "BNBUSDT",
+    "entry_price": 893.03,
+    "entry_time": "2025-12-06T22:39:13.489502",
+    "quantity": 0.77,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038469386": {
+    "order_id": 1038469386,
+    "coin": "BNBUSDT",
+    "entry_price": 893.03,
+    "entry_time": "2025-12-06T22:39:13.489502",
+    "quantity": 0.77,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038469604": {
+    "order_id": 1038469604,
+    "coin": "BNBUSDT",
+    "entry_price": 892.49,
+    "entry_time": "2025-12-06T22:40:58.769378",
+    "quantity": 0.83,
+    "side": "BUY",
+    "confidence": 0.9
+  },
+  "1038469605": {
+    "order_id": 1038469605,
+    "coin": "BNBUSDT",
+    "entry_price": 892.49,
+    "entry_time": "2025-12-06T22:40:58.769378",
+    "quantity": 0.83,
+    "side": "BUY",
+    "confidence": 0.9
+  }
+}
